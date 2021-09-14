@@ -31,7 +31,7 @@ There is some trend in the average review score going down, and this could be be
 
 In recent years the increase of game releases has also created this second class of games which are not in Steam's No Man's Land, but aren't very far from it. In fact, since 2017, the Median Reviews per Game has been around 60, meaning that half of the games released in that time have less than 60 reviews (and more than 10 as explained in the data section). Considering 16000 games have been released since 2017, 8000 games have less than 60 reviews. One could say that the market is saturated, but clearly if games are being made then there is money to make these games. Gone are the days when Steam carefully selected its partners, the storefront is truly selling all kinds of games now.
 
-However, are those unplayed games low quality? If so, we would expect a positive skewness in the Review Distribution, meaning many games would have low review scores. We show this distribution along the average price of each review score bar (the format of the price is such that 700 is 7$). 
+However, are those unplayed games low quality? If so, we would expect a positive skewness in the Review Distribution, meaning many games would have low review scores. We show this distribution along the average price of each review score bar.
 
 ![view](ReviewDistributionWPrice.PNG)
 
@@ -44,11 +44,11 @@ Despite these unreviewed games, are Steam's sales growing? We can use a common r
 2. It also doesn't include variable pricing over a game's lifetime meaning that all sales are calculated as if the game was sold at full price.
 3. Reviews are a conservative placeholder for actual number of sold games. And in fact in some cases could be an overestimation if the game sees a lot of refund requests.
 
-However, despite this we can use the Boxleiter method to have an acceptable estimate of revenue.
+However, despite this we can use the Boxleiter method to have an acceptable estimate of revenue change.
 
 ![view](EstimatedSales.PNG)
 
-Revenue has been increasing steadily over Steam's lifetime, with no slowing in sight (2021 data is not included).
+These estimates are another proof that the boxleiter method doesn't work well to accurately represent revenue. These values grossly underestimate actual revenue. However, the rate of change should be encapsulated here. Steam's revenues have been increasing steadily over its lifetime with no slowing in sight. 
 
 On another note, we've recently heard a lot of the heavy arrival of free games and their addictive loot box mechanics. But have free games been flooding the market?
 
