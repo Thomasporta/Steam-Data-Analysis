@@ -17,11 +17,11 @@ Note also that there is some imperfection in the data because each game represen
 
 Let us begin by looking at general statistics of the games that are actually played on Steam. Firstly, let's look at the average review score since 2005 and the total number of reviews. 
 
-![view](AverageReview_NumberReviews.PNG)
+![view](AvgReview_NumberReviews.PNG)
 
 And let's also look at the Average Game Price (excluding Free games) coupled with the number of releases.
 
-![view](AveragePrice_NumberReleases.PNG)
+![view](AvgPrice_NumberReleases.PNG)
 
 There is some trend in the average review score going down, and this could be because more games are being added to the store which reduces the overall quality of the selection. However, despite the overall quality going down, the price seems to trend upwards (which would be expected naturally through inflation). Though because of the noise present, it is hard to decisively state that the price is increasing. Another point of note is that the total number of reviews seems to be stagnating since 2015, which is not optimal since reviews are a driving force in game sales - more reviews increases the certainty of a game being "good" and people want to play games that are played by others. Steam must encourage user reviewing for games played. We can look at the Median Review count to further confirm that many games have very little reviews.
 
