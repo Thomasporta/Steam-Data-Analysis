@@ -91,7 +91,7 @@ You're nearly finishing Half Life 2 but you want water, you go to the kitchen, b
 ### Steam Workshop
 You've probably encountered the Steam Workshop if you played Skyrim, though everybody knows Nexus was the real platform to mod your game. But other games have used this feature to have the players host modded content. The feature was released in late 2011, and apparently generated millions in value exchanged. Is it even used for games other than CSGO or Dota 2 nowadays? Let's see.
 
-![view](SteamWorskhop.PNG)
+![view](SteamWorkshop.PNG)
 
 ### Steam Trading Cards
 We all remember the massive fanfare around the release of Steam Trading Cards on May 15, 2013. But they've slowly dwindled away from that peak, but are there games still using them? Let's look.
