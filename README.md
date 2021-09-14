@@ -9,13 +9,15 @@ In the face of these competitors, Steam has released various new features and pr
 
 ## Data
 
-The data is extracted from https://www.gamedatacrunch.com/ using a python web scraping tool called selenium. Data is then processed and aggregated to provide a unified form. There is a total of around 59000 games on steam. However because so many games do not have any reviews, or very few, we only look at games that have 10 or more reviews. This brings us down considerably 29000 games for our analysis. This means there is approximately 30000 games with less than 10 reviews. A good name for this would be the Steam No Man's Land, where games come to be unplayed and unreviewed. It is also a proof of how far Steam has come, from a Valve-only storefront for Half-Life, Counter Strike and Portal, to distributing select third party publisher only deals, and finally to hosting any third party publisher. Steam is a success story, but can it be more successful?
+The data is extracted from https://www.gamedatacrunch.com/ using a python web scraping tool called selenium. Data is then processed and aggregated to provide a unified form. There is a total of around 59000 games on steam. However because so many games do not have any reviews, or very few, we only look at games that have 10 or more reviews. This brings us down considerably to 29200 games for our analysis. This means there is approximately 30000 games with less than 10 reviews. A good name for this would be the Steam No Man's Land, where games come to be unplayed and unreviewed. It is also a proof of how far Steam has come, from a Valve-only storefront for Half-Life, Counter Strike and Portal, to distributing select third party publisher only deals, and finally to hosting any third party publisher. Steam is a success story, but can it be more successful?
 
-Note also that there is some imperfection in the data because each game represents one datapoint and as such all relevant information (number of reviews, review score, usage of steam features) is combined into one date (the release date of the game). As such if a game is released in 2013, but the crux of the reviews arrives in 2016, we will still attribute those reviews to the 2013 date of release. It is the same for other features. For example, if Steam Cloud is implemented in 2020 for a game released in 2012, this game will appear as having Steam Cloud since 2012 in our data. However, despite this effect we can still extract interesting analysis from the data.
+Note also that there is some imperfection in the data because each game represents one datapoint and as such all relevant information (number of reviews, review score, usage of steam features) is combined into one date (the release date of the game). As such if a game is released in 2013, but the crux of the reviews arrives in 2016, we will still attribute those reviews to the 2013 date of release. It is the same for other features. For example, if Steam Cloud is implemented in 2020 for a game released in 2012, this game will appear as having Steam Cloud since 2012 in our data. However, despite this effect we can still extract interesting analysis from the data.]
+
+The data is included as part of the repository in the data file under the name top29200.csv. 
 
 ## I. Releases and Reviews
 
-Let us begin by looking at general statistics of the games that are actually played on Steam. Firstly, let's look at the average review score since 2005 and the total number of reviews. 
+Let us begin by looking at general statistics of the games that are actually played on Steam. Firstly, let's look at the average review score since 2005 and the total number of reviews. We use the filtered reviews parameter to estimate the number of reviews, which does not take into account reviews from review bombs and gift copies. As such this approximates real reviews the most.
 
 ![view](AvgReview_NumberReviews.PNG)
 
@@ -54,8 +56,15 @@ On another note, we've recently heard a lot of the heavy arrival of free games a
 
 The rise has been exponential since 2013. This however is also a good thing for steam as they take a comission of F2P micro-transactions and any other DLC content.
 What about blockbusters that everyone is playing? Is Steam hosting these games or have they moved to their own distribution methods (Launchers like Battle.Net)?
-We can look at the average Peak Concurrent Players over the games released in a year. 
+We can look at the average Peak Concurrent Players over the games released in a year to study the amount of blockbusters released.  
 
 ![view](AvgCCU.PNG)
+
+Here we can see the effect of CS:GO on 2012 and Dota 2 on 2013. If we ignore those two points, we the trend is decreasing but not dramatically so.
+
+We've thus far looked at the general health of steam, finding that the plaftorm was generating higher revenues with a larger number of releases. However, we found that many games have little reviews, and that the reviewing system is skewed towards positive review scores.
+
+
+## II. Steam features and engagement programs.
 
 
