@@ -35,7 +35,7 @@ However, are those unplayed games low quality? If so, we would expect a positive
 
 ![view](ReviewDistributionWPrice.PNG)
 
-Not only is the skewness of the distribution not positive, it is in fact negative! Most games have review scores of 50% or more, concentrated around 70 to 75%. Most games played on Steam are enjoyed by those who play it. We shouldn't forget that a binary recommend/unrecommend system will have bias introduced in it. People will often opt to recommend rather than not, especially for games that have little success. Are most games on steam good or is the review system rigged for positive reviews? I will let the reader decide.
+Not only is the skewness of the distribution not positive, it is in fact negative! Most games have review scores of 50% or more, concentrated around 70 to 75%. Most games played on Steam are enjoyed by those who play it. We shouldn't forget that a binary recommend/unrecommend system will have bias introduced in it. People who review will often opt to recommend rather than not, especially for games that have little success. Are most games on steam good or is the review system rigged for positive reviews? I will let the reader decide.
 Another point of note when looking at this review distribution is the increasing price for well reviewed games - which we would expect.
 
 Despite these unreviewed games, are Steam's sales growing? We can use a common revenue approximation, the "Boxleiter Method". This basically multiplies the number of reviews with the price of a game (then multipled by 0.3 as Steam takes a 30% comission on sales). However, the method trades ease of use with multiple weaknesses. 
@@ -55,16 +55,72 @@ On another note, we've recently heard a lot of the heavy arrival of free games a
 ![view](FreeGames.PNG)
 
 The rise has been exponential since 2013. This however is also a good thing for steam as they take a comission of F2P micro-transactions and any other DLC content.
-What about blockbusters that everyone is playing? Is Steam hosting these games or have they moved to their own distribution methods (Launchers like Battle.Net)?
+What about blockbusters that everyone is playing? Is Steam hosting these games or have they moved to their own distribution methods (Launchers like Battle.Net)? To their rivals?
 We can look at the average Peak Concurrent Players over the games released in a year to study the amount of blockbusters released.  
 
 ![view](AvgCCU.PNG)
 
-Here we can see the effect of CS:GO on 2012 and Dota 2 on 2013. If we ignore those two points, we the trend is decreasing but not dramatically so.
+Here we can see the effect of CS:GO on 2012 and Dota 2 on 2013. If we ignore those two points, we notice the trend is decreasing but not dramatically so.
 
 We've thus far looked at the general health of steam, finding that the plaftorm was generating higher revenues with a larger number of releases. However, we found that many games have little reviews, and that the reviewing system is skewed towards positive review scores.
 
 
-## II. Steam features and engagement programs.
+## II. Steam features and engagement programs
+
+### Early Access
+Early access launched on March 20, 2013 with an initial offering of 12 games. Since, we've seen hundreds of title go through the program, with some heavy-hitters like Larian Studios's Divinity Series and even Baldur's Gate. There are many success stories that are thriving because of the early inflow of cash for developers. But let us look at early access games in more detail.
+
+![view](LifetimeEarlyAccess.PNG)
+
+![view](GamesEarlyAccess.PNG)
+
+![view](LifetimeReviewEarlyAccess.PNG)
+
+![view](ReviewDistributionEarlyAccess.PNG)
+
+### Steam Achievements
+Achievements have always been around on Steam, and it's hard to imagine playing games without the occasional little icon on the side of your screen when you do something of note. But actually, they were introduced into the system on the release of the Orange Box on Oct 10, 2007. Since then most games have used them, but let's look at exactly how many have.
+
+![view](Achievements.PNG)
+
+### Steam Cloud
+You're nearly finishing Half Life 2 but you want water, you go to the kitchen, but on your way back you slip on a banana and break your PC, losing your saved games. Before November 2008 you would have been sad for two reasons, for losing your saves and for breaking your PC. After November 2008 and the release of Steam Cloud, such an accident would only incur monetary loss, your saves being kept safe in the cloud vaults of Valve. But how quickly did the feature develop? Let's have a look. 
+
+![view](SteamCloud.PNG)
+
+### Steam Workshop
+You've probably encountered the Steam Workshop if you played Skyrim, though everybody knows Nexus was the real platform to mod your game. But other games have used this feature to have the players host modded content. The feature was released in late 2011, and apparently generated millions in value exchanged. Is it even used for games other than CSGO or Dota 2 nowadays? Let's see.
+
+![view](SteamWorskhop.PNG)
+
+### Steam Trading Cards
+We all remember the massive fanfare around the release of Steam Trading Cards on May 15, 2013. But they've slowly dwindled away from that peak, but are there games still using them? Let's look.
+
+![view](SteamCards.PNG)
+
+### Steam VR
+VR has gone from an impossible dream to a reality. But what does that reality look like for VR games on Steam? Steam's VR storefront was released under the name SteamVR on April 4, 2016. Has it been the success that was expected?
+
+![view](SteamVR.PNG)
+
+## III. Other interesting tidbits
+
+### Mac support
+
+![view](MacDistribution.PNG)
+
+### Language Compatibility
+
+![view](Arabic.PNG)
+
+### Adult Only Sexual content 
+
+![view](SexualContent.PNG)
+
+### MMORPG on Steam
+
+![view](MMORPG.PNG)
+
+
 
 
