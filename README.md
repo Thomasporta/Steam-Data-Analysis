@@ -17,21 +17,21 @@ Note also that there is some imperfection in the data because each game represen
 
 Let us begin by looking at general statistics of the games that are actually played on Steam. Firstly, let's look at the average review score since 2005 and the total number of reviews. 
 
-![view]{AverageReview_NumberReviews.PNG}
+![view](AverageReview_NumberReviews.PNG)
 
 And let's also look at the Average Game Price (excluding Free games) coupled with the number of releases.
 
-![view]{AveragePrice_NumberReleases.PNG]
+![view](AveragePrice_NumberReleases.PNG)
 
 There is some trend in the average review score going down, and this could be because more games are being added to the store which reduces the overall quality of the selection. However, despite the overall quality going down, the price seems to trend upwards (which would be expected naturally through inflation). Though because of the noise present, it is hard to decisively state that the price is increasing. Another point of note is that the total number of reviews seems to be stagnating since 2015, which is not optimal since reviews are a driving force in game sales - more reviews increases the certainty of a game being "good" and people want to play games that are played by others. Steam must encourage user reviewing for games played. We can look at the Median Review count to further confirm that many games have very little reviews.
 
-![view][MedianReviewsPerGame.PNG]
+![view](MedianReviewsPerGame.PNG)
 
 In recent years the increase of game releases has also created this second class of games which are not in Steam's No Man's Land, but aren't very far from it. In fact, since 2017, the Median Reviews per Game has been around 60, meaning that half of the games released in that time have less than 60 reviews (and more than 10 as explained in the data section). Considering 16000 games have been released since 2017, 8000 games have less than 60 reviews. One could say that the market is saturated, but clearly if games are being made then there is money to make these games. Gone are the days when Steam carefully selected its partners, the storefront is truly selling all kinds of games now.
 
 However, are those unplayed games low quality? If so, we would expect a positive skewness in the Review Distribution, meaning many games would have low review scores. We show this distribution along the average price of each review score bar (the format of the price is such that 700 is 7$). 
 
-![view]{ReviewDistributionWPrice.PNG}
+![view](ReviewDistributionWPrice.PNG)
 
 Not only is the skewness of the distribution not positive, it is in fact negative! Most games have review scores of 50% or more, concentrated around 70 to 75%. Most games played on Steam are enjoyed by those who play it. We shouldn't forget that a binary recommend/unrecommend system will have bias introduced in it. People will often opt to recommend rather than not, especially for games that have little success. Are most games on steam good or is the review system rigged for positive reviews? I will let the reader decide.
 Another point of note when looking at this review distribution is the increasing price for well reviewed games - which we would expect.
@@ -44,18 +44,18 @@ Despite these unreviewed games, are Steam's sales growing? We can use a common r
 
 However, despite this we can use the Boxleiter method to have an acceptable estimate of revenue.
 
-![view]{EstimatedSales.PNG}
+![view](EstimatedSales.PNG)
 
 Revenue has been increasing steadily over Steam's lifetime, with no slowing in sight (2021 data is not included).
 
 On another note, we've recently heard a lot of the heavy arrival of free games and their addictive loot box mechanics. But have free games been flooding the market?
 
-![view]{FreeGames.PNG}
+![view](FreeGames.PNG)
 
 The rise has been exponential since 2013. This however is also a good thing for steam as they take a comission of F2P micro-transactions and any other DLC content.
 What about blockbusters that everyone is playing? Is Steam hosting these games or have they moved to their own distribution methods (Launchers like Battle.Net)?
 We can look at the average Peak Concurrent Players over the games released in a year. 
 
-![view]{AvgCCU.PNG}
+![view](AvgCCU.PNG)
 
 
