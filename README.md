@@ -38,7 +38,7 @@ However, are those unplayed games low quality? If so, we would expect a positive
 Not only is the skewness of the distribution not positive, it is in fact negative! Most games have review scores of 50% or more, concentrated around 70 to 75%. Most games played on Steam are enjoyed by those who play it. We shouldn't forget that a binary recommend/unrecommend system will have bias introduced in it. People who review will often opt to recommend rather than not, especially for games that have little success. Are most games on steam good or is the review system rigged for positive reviews? I will let the reader decide.
 Another point of note when looking at this review distribution is the increasing price for well reviewed games - which we would expect.
 
-Despite these unreviewed games, are Steam's sales growing? We can use a common revenue approximation, the "Boxleiter Method". This basically multiplies the number of reviews with the price of a game (then multipled by 0.3 as Steam takes a 30% comission on sales). However, the method trades ease of use with multiple weaknesses. 
+Despite these unreviewed games, are Steam's sales growing? We can use a common revenue approximation, the "Boxleiter Method". This basically multiplies the number of reviews with the price of a game (then multiplied by 0.3 as Steam takes a 30% commission on sales). However, the method trades ease of use with multiple weaknesses. 
 
 1. It doesn't take into account free games which make a lot of money from in-game transactions. 
 2. It also doesn't include variable pricing over a game's lifetime meaning that all sales are calculated as if the game was sold at full price.
@@ -54,7 +54,7 @@ On another note, we've recently heard a lot of the heavy arrival of free games a
 
 ![view](FreeGames.PNG)
 
-The rise has been exponential since 2013. This however is also a good thing for steam as they take a comission of F2P micro-transactions and any other DLC content.
+The rise has been exponential since 2013. This however is also a good thing for steam as they take a commission of F2P micro-transactions and any other DLC content.
 What about blockbusters that everyone is playing? Is Steam hosting these games or have they moved to their own distribution methods (Launchers like Battle.Net)? To their rivals?
 We can look at the average Peak Concurrent Players over the games released in a year to study the amount of blockbusters released.  
 
@@ -62,7 +62,7 @@ We can look at the average Peak Concurrent Players over the games released in a 
 
 Here we can see the effect of CS:GO on 2012 and Dota 2 on 2013. If we ignore those two points, we notice the trend is decreasing but not dramatically so.
 
-We've thus far looked at the general health of steam, finding that the plaftorm was generating higher revenues with a larger number of releases. However, we found that many games have little reviews, and that the reviewing system is skewed towards positive review scores.
+We've thus far looked at the general health of steam, finding that the platform was generating higher revenues with a larger number of releases. However, we found that many games have little reviews, and that the reviewing system is skewed towards positive review scores.
 
 
 ## II. Steam features and engagement programs
@@ -76,17 +76,17 @@ Early access launched on March 20, 2013 with an initial offering of 12 games. Si
 
 ![view](GamesEarlyAccess.PNG)
 
-The number of games involved with the Early Access feature is 20% thoughout Steam's history (Remember we're only looking at games with more than 10 Reviews). Which is around  6000 games. That's a larger number of games that maybe would not have been possible without the program. The share of games using early access has also been increasing over time, meaning that the program is popular with developers. And it is logical, many developers prefer to receive feedback and a small influx of cash flow from players.
+The number of games involved with the Early Access feature is 20% throughout Steam's history (Remember we're only looking at games with more than 10 Reviews). Which is around  6000 games. That's a larger number of games that maybe would not have been possible without the program. The share of games using early access has also been increasing over time, meaning that the program is popular with developers. And it is logical, many developers prefer to receive feedback and a small influx of cash flow from players.
 What of the reviews for early access games? Are the games using early access reviewed more harshly?
 
 ![view](LifetimeReviewEarlyAccess.PNG)
 
 ![view](ReviewDistributionEarlyAccess.PNG)
 
-Looking at the lifetime data, we see that the review order from low to high is Current Early Access/Former Early Access/No Early Accesss. Which is not too suprising, the reviews of games post-early access are more positive because full release has happened. And games developed with no early access are perhaps more complete. However, variability between each category is tiny, and if we considered noise the difference might be indistinguishable. For the review distribution it looks like Early Access games have more density in lower review score regions. Early Access has allowed some hidden gems to surface as can be seen in 90+ review bins. From this fact alone, we can say that the program has been successful - great games have come through the program.
+Looking at the lifetime data, we see that the review order from low to high is Current Early Access/Former Early Access/No Early Access. Which is not too surprising, the reviews of games post-early access are more positive because full release has happened. And games developed with no early access are perhaps more complete. However, variability between each category is tiny, and if we considered noise the difference might be indistinguishable. For the review distribution it looks like Early Access games have more density in lower review score regions. Early Access has allowed some hidden gems to surface as can be seen in 90+ review bins. From this fact alone, we can say that the program has been successful - great games have come through the program.
 
 ### Steam Achievements
-Achievements have always been around on Steam, and it's hard to imagine playing games without the occasional little icon on the side of your screen when you do something of note. But actually, they were introduced into the system on the release of the Orange Box on Oct 10, 2007. Since then most games have used them, but let's look at exactly how many have.
+Achievements have always been around on Steam, and it's hard to imagine playing games without the occasional little icon on the side of your screen when you do something of note. But as a matter of fact, they were introduced into the system on the release of the Orange Box on Oct 10, 2007. Since then most games have used them, but let's look at exactly how many have.
 
 ![view](Achievements.PNG)
 
@@ -111,7 +111,7 @@ We all remember the massive fanfare around the release of Steam Trading Cards on
 
 ![view](SteamCards.PNG)
 
-The curve of adoption is quite dramatic and more than half of the games from 2013 to 2016 used Steam Trading Cards. A very successful launch if we've ever seen one. Whether that was due to coercing developers to use them, or simply that those developers loved the concept, it rose sharply post-launch. However, the fall was as hard as the launch, and the use of STC now sits at 6.5% for 2021. At this pace, the feature will die before 2025. Steam must act to revive it but how? Steam trading cards feel like a paradise for collectioners, but are there really that many Steam collectioners looking for digital cards? Time is making an argument for STC merely being a gimmick.
+The curve of adoption is quite dramatic and more than half of the games from 2013 to 2016 used Steam Trading Cards. A very successful launch if we've ever seen one. Whether that was due to coercing developers to use them, or simply that those developers loved the concept, it rose sharply post-launch. However, the fall was as hard as the launch, and the use of STC now sits at 6.5% for 2021. At this pace, the feature will die before 2025. Steam must act to revive it but how? Steam trading cards feel like a paradise for collectors, but are there really that many Steam collectors looking for digital cards? Time is making an argument for STC merely being a gimmick.
 
 ### Steam VR
 VR has gone from an impossible dream to a reality. But what does that reality look like for VR games on Steam? Steam's VR storefront was released under the name SteamVR on April 4, 2016. Has it been the success that was expected?
@@ -127,7 +127,7 @@ Controllers are a must have for certain games on PC, but it hasn't always been t
 ![view](ControllerSupport.PNG)
 
 The story is the same here and controller support, while increasing in magnitude has decreased in share of releases. The adoption wall also seems to have been hit in 2013.
-It's not the first time we've mentionned the adoption wall being hit in 2013. What is it that makes 2013 special? Well we know that Steam Greenlight debuted in 2012, which means that 2013 was the first year of the program, with developers probably pushed (whether by fans, themselves or Steam) to use steam features. Following this, the share only went down as more and more games flooded the store, before it continued dropping after 2017 with Steam Direct replacing Steam Greenlight.
+It's not the first time we've mentioned the adoption wall being hit in 2013. What is it that makes 2013 special? Well we know that Steam Greenlight debuted in 2012, which means that 2013 was the first year of the program, with developers probably pushed (whether by fans, themselves or Steam) to use steam features. Following this, the share only went down as more and more games flooded the store, before it continued dropping after 2017 with Steam Direct replacing Steam Greenlight.
 
 We've made one element clear in this section - steam features and programs, except Early Access, represent less and less of annual share of releases. As such, the total number of games without these features is growing faster than with. It seems logical that because the number of releases from small/solo studios is growing, with less development time allocated to platform specific features, steam features are used less. We can look at a last graph - the review distribution but with Achievements indicated.
 
@@ -145,7 +145,7 @@ The first is taboo. Why would you be gaming on a Mac? Well turns out the demand 
 
 ![view](MacDistribution.PNG)
 
-But the demand is dropping. Is that because of Apple changing their macs to use in house chips? Or is it because like steam features, studios and indies cannot afford to develop on other plaftorms (one must own a mac to test on macs).
+But the demand is dropping. Is that because of Apple changing their macs to use in house chips? Or is it because like steam features, studios and indies cannot afford to develop on other platforms (one must own a mac to test on macs).
 
 ### Language Compatibility
 
@@ -153,7 +153,7 @@ Some languages remain unexploited. Arabic is one of them,
 
 ![view](Arabic.PNG)
 
-Only around 250 games are being developed with Arabic language per year now - an extremely low number. And this is the same for many other languages, but arabic was the most striking considering how widespread it is.
+Only around 250 games are being developed with Arabic language per year now - an extremely low number. And this is the same for many other languages, but Arabic was the most striking considering how widespread it is.
 
 ### Adult Only Sexual content 
 
@@ -167,10 +167,10 @@ Since 2017 the share has kept increasing, peaking at around 9% in 2020. There is
 
 We began by looking at Steam's general health - the outlook was positive on a sales viewpoint as revenues were growing. However, the volume of launched games is outgrowing the number of reviews (and probably the number of users), which might become a problem. The Steam No Man's Land will only balloon.
 
-We then looked at Steam Features, and saw that this rise in game releases was not accompagnied with higher adoption of Steam Features, but a decrease in them. Games are not using what Steam has to offer, and if that's the case then why are they using Steam? For the exposure they will get on the biggest storefront; but that may not last for long.
-The launch of the Steam Deck makes sense in this light. Steam must constantly reinvent themselves, adding new reasons to use its storefront, and free portability is a good one. However, given that many games do not offer steam features, will they use the Steam Deck? Steam probably has simpiflied the process significantly in light of the launch.
+We then looked at Steam Features, and saw that this rise in game releases was not accompanied with higher adoption of Steam Features, but a decrease in them. Games are not using what Steam has to offer, and if that's the case then why are they using Steam? For the exposure they will get on the biggest storefront; but that may not last for long.
+The launch of the Steam Deck makes sense in this light. Steam must constantly reinvent themselves, adding new reasons to use its storefront, and free portability is a good one. However, given that many games do not offer steam features, will they use the Steam Deck? Steam probably has simplified the process significantly in light of the launch.
 
-Lastly we looked at other areas of interest and idetifiend some trends. Mac support is diminishing, some languages have very small footprint in comparison to their worldwide use (a potential growth prospect) and Adult only sexual content is on the rise.
+Lastly we looked at other areas of interest and identified some trends. Mac support is diminishing, some languages have very small footprint in comparison to their worldwide use (a potential growth prospect) and Adult only sexual content is on the rise.
 
 One recurrent theme is clear, more games by small/solo studios are entering the market, and those studios have no time to develop Steam features. While on the surface this doesn't seem a problem, we may hear talk of Steam's No Man's Land more often.
 
