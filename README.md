@@ -17,7 +17,7 @@ The data is included as part of the repository in the data file under the name t
 
 ## I. Releases and Reviews
 
-Let us begin by looking at general statistics of the games that are actually played on Steam. Firstly, let's look at the average review score since 2005 and the total number of reviews. We use the filtered reviews parameter to estimate the number of reviews, which does not take into account reviews from review bombs and gift copies. As such this approximates real reviews the most.
+Let us begin by looking at general statistics of the games that are actually played on Steam. Firstly, let's look at the average review score for games released from 2005 and the total number of reviews. We use the filtered reviews parameter to estimate the number of reviews, which does not take into account reviews from review bombs and gift copies. As such this approximates real reviews the most. We also need to remember that reviews were implemented on the steam platform in 2013. As such any steam review data before 2013 is reviews that were written later on.
 
 ![view](AvgReview_NumberReviews.PNG)
 
@@ -86,7 +86,7 @@ What of the reviews for early access games? Are the games using early access rev
 Looking at the lifetime data, we see that the review order from low to high is Current Early Access/Former Early Access/No Early Access. Which is not too surprising, the reviews of games post-early access are more positive because full release has happened. And games developed with no early access are perhaps more complete. However, variability between each category is tiny, and if we considered noise the difference might be indistinguishable. For the review distribution it looks like Early Access games have more density in lower review score regions. Early Access has allowed some hidden gems to surface as can be seen in 90+ review bins. From this fact alone, we can say that the program has been successful - great games have come through the program.
 
 ### Steam Achievements
-Achievements have always been around on Steam, and it's hard to imagine playing games without the occasional little icon on the side of your screen when you do something of note. But as a matter of fact, they were introduced into the system on the release of the Orange Box on Oct 10, 2007. Since then most games have used them, but let's look at exactly how many have.
+Achievements feel like they have always been around on Steam, and it's hard to imagine playing games without the occasional little icon on the side of your screen when you do something of note. But as a matter of fact, they were introduced into the system on the release of the Orange Box on Oct 10, 2007. Since then most games have used them, but let's look at exactly how many have.
 
 ![view](Achievements.PNG)
 
