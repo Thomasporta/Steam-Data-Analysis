@@ -74,53 +74,96 @@ Early access launched on March 20, 2013 with an initial offering of 12 games. Si
 
 ![view](GamesEarlyAccess.PNG)
 
+The number of games involved with the Early Access feature is 20% thoughout Steam's history (Remember we're only looking at games with more than 10 Reviews). Which is around  6000 games. That's a larger number of games that maybe would not have been possible without the feature. The share of games using early access has also been increasing over time, meaning that the program is popular with developers. And it is logical, many developers prefer to receive feedback and a small influx of cash flow from players.
+What of the reviews for early access games? Are the games using early access reviewed more harshly?
+
 ![view](LifetimeReviewEarlyAccess.PNG)
 
 ![view](ReviewDistributionEarlyAccess.PNG)
+
+Looking at the lifetime data, we see that the review order from low to high is Current Early Access/Former Early Access/No Early Accesss. Which is not too suprising, the reviews of games post early access are more positve because full release has happened. And games developed with no early access were perhaps more complete. However, variability between each category is tiny, and if we considered noise the difference might be indistinguishable. For the review distribution it looks like Early Access games have more density in lower review score regions. Early Access has allowed some hidden gems to surface as can be seen in 90+ review bins. From this fact alone, we can say that the program has been successful.
 
 ### Steam Achievements
 Achievements have always been around on Steam, and it's hard to imagine playing games without the occasional little icon on the side of your screen when you do something of note. But actually, they were introduced into the system on the release of the Orange Box on Oct 10, 2007. Since then most games have used them, but let's look at exactly how many have.
 
 ![view](Achievements.PNG)
 
+From 2007 to 2013, games using Achievements saw a steady increase before hitting a maximal adoption wall of 60% that it never recovered from. Since then the number of games using the Achievement system has gone down and for 50% of new releases use the feature. Which is quite low for a system that seems so integral to gaming in general.
+
 ### Steam Cloud
 You're nearly finishing Half Life 2 but you want water, you go to the kitchen, but on your way back you slip on a banana and break your PC, losing your saved games. Before November 2008 you would have been sad for two reasons, for losing your saves and for breaking your PC. After November 2008 and the release of Steam Cloud, such an accident would only incur monetary loss, your saves being kept safe in the cloud vaults of Valve. But how quickly did the feature develop? Let's have a look. 
 
 ![view](SteamCloud.PNG)
+
+The same occurs with Steam Cloud as with the Achievements. Increase from 2008 to 2013 (the spikes before are because some games later updated their games to use the feature) and then hitting an adoption wall of around 50%, lower than for achievements. However the fall has been worse - 30 % of new releases use Steam Cloud. We could theorize that games who don't use Steam Cloud, also don't implement achievements. One would expect this with the rise of Indies and solo developers which have limited resources. Maybe implementing these features is heavy work for small teams?
 
 ### Steam Workshop
 You've probably encountered the Steam Workshop if you played Skyrim, though everybody knows Nexus was the real platform to mod your game. But other games have used this feature to have the players host modded content. The feature was released in late 2011, and apparently generated millions in value exchanged. Is it even used for games other than CSGO or Dota 2 nowadays? Let's see.
 
 ![view](SteamWorkshop.PNG)
 
+The feature has never been widespread, peaking at 4.70% of games using the Workshop in 2016. Since then, the feature has become less popular. Is this because less games use modding and custom items? Or is it because the workshop is hard to implement correctly? Or perhaps games simply prefer other external distribution means like Nexus Mods. Whichever it is, the fact is that less games are using the workshop.
+
 ### Steam Trading Cards
-We all remember the massive fanfare around the release of Steam Trading Cards on May 15, 2013. But they've slowly dwindled away from that peak, but are there games still using them? Let's look.
+We all remember the massive fanfare around the release of Steam Trading Cards on May 15, 2013. But they've slowly dwindled away from that peak - are there games still using them? Let's look.
 
 ![view](SteamCards.PNG)
+
+The curve of adoption is quite dramatic and more than half of the games from 2013 to 2016 used Steam Trading Cards. A very successful launch if we've ever seen one. Whether that was due to coercing developers to use them, or simply that those developers loved the concept, it rose sharply. However, the fall was as hard as the launch, and the use of STC now sits at 6.5% for 2021. At this pace, the feature will die before 2025. Steam must act to revive it but how? Steam trading cards feels like a paradise for collectioners, but are there really that many Steam collectioners looking for digital cards?
 
 ### Steam VR
 VR has gone from an impossible dream to a reality. But what does that reality look like for VR games on Steam? Steam's VR storefront was released under the name SteamVR on April 4, 2016. Has it been the success that was expected?
 
 ![view](SteamVR.PNG)
 
+The use of VR in steam peaked one year after launch in 2017 with 15% of games releasing with compatibility. It dropped continuously after that, and the effects of Half Life: Alyx in 2020 aren't showing yet on the releases. Perhaps Steam's rivals are too strong and oculus holds the chips on VR storefronts. However, VR adoption in general has struggled since the first mass market release of Oculus Rift.
+
+
+### Full Controller Support
+Controllers are a must have for certain games on PC, but it hasn't always been this way. Let's look at the growth of the feature since 2005.
+
+![view](ControllerSupport.PNG)
+
+The story is the same here and controller support, while increasing in magnitude has decreased in share of releases. The adoption wall also seems to have been hit in 2013.
+It's the first time we've mentionned the adoption wall being present in 2013. What is it that makes 2013 special? Well we know that Steam Greenlight debuted in 2012, which means that 2013 was the first year of the program, with developers pushed (whether by fans, themselves or Steam) to use steam features. Following this, the share only went down as more and more games flooded the store, before it continued dropping after 2017 with Steam Direct replacing Steam Greenlight.
+
+We've made one element clear in this section - steam features and programs, except Early Access, represent less and less of annual share of releases. As such, the total number of games without these features is growing faster than with. It seems logical that because the number of releases from small/solo studios, with less development time allocated to platform specific features, is growing steam features are used less. We can look at a last graph - the review distribution but with Achievements indicated.
+
+![view](ReviewDistributionAchievements.PNG)
+
+Higher rated games use Achievements more often and higher rated games are often games with more means to develop those. The picture is the same with other Steam features.
+
 ## III. Other interesting tidbits
+
+We've delved into Steam features, but we can also explore some other interesting avenues. 
 
 ### Mac support
 
+The first is taboo. Why would you be gaming on a Mac? Well turns out the demand is there.
+
 ![view](MacDistribution.PNG)
+
+But the demand is dropping. Is that because of Apple changing their macs to use in house chips? Or is it because like steam features, studios and indies cannot afford to develop on other plaftorms (one must own a mac to test on macs).
 
 ### Language Compatibility
 
+Some languages remain unexploited. Arabic is one of them, 
+
 ![view](Arabic.PNG)
+
+Only around 250 games are being developed with Arabic language per year now - an extremely low number. And this is the same for many other languages, but arabic was the most striking considering how widespread it is.
 
 ### Adult Only Sexual content 
 
+Adult only sexual content has been gaining pace, sometimes appearing in most popular sections of the store. Is this only a quirk? Or have those games really exploded?
+
 ![view](SexualContent.PNG)
 
-### MMORPG on Steam
+Since 2017 the share has kept increasing, peaking at around 9% in 2020. There is a real market there and steam has capitalized well without too much noise.
 
-![view](MMORPG.PNG)
+## Conclusion
 
+We began by looking at
 
 
 
