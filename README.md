@@ -163,7 +163,16 @@ Since 2017 the share has kept increasing, peaking at around 9% in 2020. There is
 
 ## Conclusion
 
-We began by looking at
+We began by looking at Steam's general health - the outlook was positive on a sales viewpoint as revenues were growing. However, the volume of launched games is outgrowing the number of reviews (and probably the number of users), which might become a problem. The Steam No Man's Land will only balloon.
+
+We then looked at Steam Features, and saw that this rise in game releases was not accompagnied with higher adoption of Steam Features, but a decrease in them. Games are not using what Steam has to offer, and if that's the case then why are they using Steam? For the exposure they will get on the biggest storefront; but that may not last for long.
+The launch of the Steam Deck makes sense in this light. Steam must constantly reinvent themselves, adding new reasons to use its storefront, and free portability is a good one. However, given that many games do not offer steam features, will they use the Steam Deck? Steam probably has simpiflied the process significantly in light of the launch.
+
+Lastly we looked at other areas of interest and idetifiend some trends. Mac support is diminishing, some languages have very small footprint in comparison to their worldwide use (a potential growth prospect) and Adult only sexual content is on the rise.
+
+Steam is the leader of digital storefronts - and yet, as years go by, games use less of what makes Steam's so good - its features. If that continues, Steam could be the leader only because it is already the largest storefront; and that is a good opportunity for competition. Valve cannot stay complacent, and if anything, Steam OS and the Steam deck are proof they are willing to innovate.
+
+Thank you for reading.
 
 
 
